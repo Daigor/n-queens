@@ -21,7 +21,6 @@ window.findNRooksSolution = function(n) {
   //emptyBoard.rows is the array of arrays
   //emptyBoard.togglePiece(0,0) at top corner
 
-  console.log(emptyBoard.rows());
   // put rook at top corner
   // row and column 0 are forbidden
   // ---
